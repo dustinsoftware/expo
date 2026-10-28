@@ -1,5 +1,13 @@
 # @expo/home
 
+## 0.0.17
+
+### Patch Changes
+
+- Updated dependencies. ([#51572](https://github.com/expo/expo/pull/51572))
+  - expo-gl@58.0.4
+  - expo@58.0.22
+
 ## 0.0.16
 
 ### Patch Changes
